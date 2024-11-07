@@ -42,13 +42,13 @@ $annonces = $annonceManager->afficherToutesLesAnnonces();
                     <a class="nav-link" href="Pgannonce.php">Publier annonce</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Ajouter utilisateur</a>
+                    <a class="nav-link" href="ajouterUtilisateur.php">Ajouter utilisateur</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Supprimer utilisateur</a>
+                    <a class="nav-link" href="supprimerUtilisateur.php">Supprimer utilisateur</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Modifier utilisateur</a>
+                    <a class="nav-link" href="modifierUtilisateur.php">Modifier utilisateur</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="Pgconn.php">Déconnexion</a>
